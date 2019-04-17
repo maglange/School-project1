@@ -30,7 +30,7 @@ def feil_svar(poeng, highscore, navn, oldhighscorenavn): #Definerer koden når d
 
 
 def pause(): #En enkel pausefunskjon
-    time.sleep (0.1)
+    time.sleep (0.3)
 
     
 def restart(poeng,highscore,highscorenavn): #Selve oppgaven. Alt ligger i en funskjon slik at man kan restarte
